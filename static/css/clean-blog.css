@@ -36,6 +36,12 @@ blockquote {
   font-style: italic;
   color: #868e96;
 }
+@media screen and (min-width:900px){
+.collapse{
+position:relative;
+left:600px;
+}
+}
 
 .section-heading {
   font-size: 36px;
